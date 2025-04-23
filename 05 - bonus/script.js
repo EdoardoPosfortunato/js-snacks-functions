@@ -6,6 +6,7 @@ e buonasera se è sera (oltre le 17)
 */
 
 const name = 'Mario';
+const data = 
 
 
 // Dichiara la funzione qui.
